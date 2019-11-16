@@ -1,4 +1,6 @@
 #game-area {
+    width: 100%;
     max-width: 1080px;
-    max-height: 720px;
+    height: 720px;
+    background-color: lightgrey;
 }
